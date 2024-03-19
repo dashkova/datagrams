@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T12:25:42.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="gwuOoqkKiXEONiUmHiWK" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T11:48:26.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="TM41qZiSDJ7pj_M4XB06" version="23.1.1" type="github">
   <diagram name="Страница — 1" id="sHB8bnEQEHqJdaPV740z">
-    <mxGraphModel dx="519" dy="308" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1376" dy="1231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -924,6 +924,9 @@
         </mxCell>
         <mxCell id="6DLuC9lkdZeZimnQaC1s-148" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cloud_computing;fillColor=#2196F3;fontSize=16;rotation=89;gradientColor=none;fillStyle=auto;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1275.87" y="175.00000000000006" width="60.75" height="70.9" as="geometry" />
+        </mxCell>
+        <mxCell id="njgr2xBFc83AbJE7hYV4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-64" y="594" width="582" height="445" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
