@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T13:13:34.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="YoPRh3bx3lAoHV_Nw-UV" version="24.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T13:15:24.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="7CpKQwR12nKsUu3PmpZf" version="24.4.2" type="github" pages="2">
   <diagram id="ZtWWPMljTFp8yyawiEbH" name="ЭАО Причины">
     <mxGraphModel dx="1735" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KjCAZHo6sr9IO5SEz2zb" name="ЭАО последствия">
-    <mxGraphModel dx="968" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,6 +365,12 @@
         <mxCell id="ncauQP9AvjcyV4FWilIb-7" value="10 c" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="470" y="140" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ztT179E0r6GBONuLtkep-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="targetPoint" />
+            <mxPoint x="590" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ncauQP9AvjcyV4FWilIb-8" value="&amp;amp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="542" y="100" width="20" height="80" as="geometry" />
         </mxCell>
@@ -429,7 +435,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ztT179E0r6GBONuLtkep-4" value="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="ztT179E0r6GBONuLtkep-4" value="&amp;amp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="265" y="350" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ztT179E0r6GBONuLtkep-5" value="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
@@ -466,6 +472,9 @@
               <mxPoint x="330" y="330" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ztT179E0r6GBONuLtkep-10" value="&amp;amp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="522" y="310" width="20" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
