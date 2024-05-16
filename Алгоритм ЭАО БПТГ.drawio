@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T13:23:11.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="zNJk5Gs2GQOre7iFKW13" version="24.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T13:26:06.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="UmbKbuh3CQob-CO8ks4F" version="24.4.2" type="github" pages="2">
   <diagram id="ZtWWPMljTFp8yyawiEbH" name="ЭАО Причины">
     <mxGraphModel dx="1735" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KjCAZHo6sr9IO5SEz2zb" name="ЭАО последствия">
-    <mxGraphModel dx="946" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1125" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,190 +177,8 @@
         <mxCell id="vp8R3FniqfXXm2EuUfDi-39" value="Входной кран 1УА закрыт" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="30" y="400" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-41" value="60 с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="865" y="120" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="140" as="sourcePoint" />
-            <mxPoint x="825" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="825" y="150" />
-              <mxPoint x="825" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" target="vp8R3FniqfXXm2EuUfDi-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="250" as="sourcePoint" />
-            <mxPoint x="855" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="835" y="250" />
-              <mxPoint x="835" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-44" value="Клапан г-г открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="865" y="240" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-45" value="180 с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="865" y="170" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="825" y="189.67000000000007" as="sourcePoint" />
-            <mxPoint x="865" y="189.67000000000007" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="835" y="189.67000000000007" />
-              <mxPoint x="835" y="189.67000000000007" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-47" value="Кран 14 открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="985" y="130" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-48" value="Кран 13 закрыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="985" y="150" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vp8R3FniqfXXm2EuUfDi-41" target="vp8R3FniqfXXm2EuUfDi-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="129.83000000000004" as="sourcePoint" />
-            <mxPoint x="945" y="129.83000000000004" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="915" y="140" />
-              <mxPoint x="915" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="945" y="159.67000000000002" as="sourcePoint" />
-            <mxPoint x="985" y="159.67000000000002" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="955" y="159.67000000000002" />
-              <mxPoint x="955" y="159.67000000000002" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="945.0300000000001" y="140" as="sourcePoint" />
-            <mxPoint x="945.2" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="945.0300000000001" y="150" />
-              <mxPoint x="945.0300000000001" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="905" y="189.70000000000005" as="sourcePoint" />
-            <mxPoint x="985" y="189.87" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="915" y="189.87" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-53" value="МП отключить" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="985" y="180" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="WGOIWOtRlZful5z0XLVo-1" value="Примечание - при подаче команды выполняется блокировка соответствующей команды противоположного действия, например, для команды &quot;Кран 4 закрыть&quot; блокируется &quot;Кран 4 открыть&quot;&lt;br&gt;* - выполняется размыканием цепи управления противоположной команды&lt;br&gt;** - выполняется снятием питания с аналогового выхода &quot;Управление антипомпажным клапаном (Кран № 6р)&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="40" y="740" width="1080" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="510" as="sourcePoint" />
-            <mxPoint x="860" y="510" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-2" value="Компрессор №1 барьерного воздуха включить" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="700" y="480" width="360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-3" value="Компрессор №2 барьерного воздуха включить" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="700" y="500" width="360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-4" value="Кран барьерного воздуха КЭО1 открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="700" y="520" width="360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-5" value="Кран барьерного воздуха КЭО2 открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="700" y="540" width="360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-6" value="Кран подачи масла в двигатель открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="700" y="560" width="360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-7" value="Кран отбора газа для СГУ с выхода компрессора закрыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="700" y="580" width="360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="490" as="sourcePoint" />
-            <mxPoint x="660" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="660" y="490" />
-              <mxPoint x="660" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="489.83000000000004" as="sourcePoint" />
-            <mxPoint x="700" y="489.83000000000004" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="489.83000000000004" />
-              <mxPoint x="670" y="489.83000000000004" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="509.86" as="sourcePoint" />
-            <mxPoint x="700" y="509.86" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="509.86" />
-              <mxPoint x="670" y="509.86" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="529.83" as="sourcePoint" />
-            <mxPoint x="700" y="529.83" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="529.83" />
-              <mxPoint x="670" y="529.83" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="549.86" as="sourcePoint" />
-            <mxPoint x="700" y="549.86" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="549.86" />
-              <mxPoint x="670" y="549.86" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="569.83" as="sourcePoint" />
-            <mxPoint x="700" y="569.83" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="569.83" />
-              <mxPoint x="670" y="569.83" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dngurfDs0G42bzSz9FTf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="589.86" as="sourcePoint" />
-            <mxPoint x="700" y="589.86" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="589.86" />
-              <mxPoint x="670" y="589.86" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ncauQP9AvjcyV4FWilIb-7" value="10 c" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="470" y="140" width="40" height="40" as="geometry" />
@@ -435,9 +253,6 @@
         <mxCell id="ztT179E0r6GBONuLtkep-5" value="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="300" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ztT179E0r6GBONuLtkep-6" value="Кран 5 открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="875" y="230" width="120" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ztT179E0r6GBONuLtkep-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vp8R3FniqfXXm2EuUfDi-39" target="ztT179E0r6GBONuLtkep-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="410" as="sourcePoint" />
@@ -499,6 +314,18 @@
             <mxPoint x="490" y="382.41999999999996" as="sourcePoint" />
             <mxPoint x="553" y="382.5" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azJjPpH03EOyZhzqckqP-7" value="Свечной кран 2УА открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="620" y="351" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="azJjPpH03EOyZhzqckqP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=1.006;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztT179E0r6GBONuLtkep-10" target="azJjPpH03EOyZhzqckqP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="542" y="363.51" as="sourcePoint" />
+            <mxPoint x="577.01" y="360.48" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="577" y="362" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
