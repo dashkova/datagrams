@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T13:26:06.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="UmbKbuh3CQob-CO8ks4F" version="24.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T13:27:17.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="PGPeKOM2SVCeGlMPcjLH" version="24.4.2" type="github" pages="2">
   <diagram id="ZtWWPMljTFp8yyawiEbH" name="ЭАО Причины">
     <mxGraphModel dx="1735" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -317,7 +317,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="azJjPpH03EOyZhzqckqP-7" value="Свечной кран 2УА открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="620" y="351" width="205" height="20" as="geometry" />
+          <mxGeometry x="600" y="352" width="205" height="20" as="geometry" />
         </mxCell>
         <mxCell id="azJjPpH03EOyZhzqckqP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=1.006;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztT179E0r6GBONuLtkep-10" target="azJjPpH03EOyZhzqckqP-7">
           <mxGeometry relative="1" as="geometry">
