@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T13:27:17.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="PGPeKOM2SVCeGlMPcjLH" version="24.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T13:33:25.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="mpXt0MxL2wOLO545YgMN" version="24.4.2" type="github" pages="2">
   <diagram id="ZtWWPMljTFp8yyawiEbH" name="ЭАО Причины">
     <mxGraphModel dx="1735" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KjCAZHo6sr9IO5SEz2zb" name="ЭАО последствия">
-    <mxGraphModel dx="1125" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="801" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,18 +169,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vp8R3FniqfXXm2EuUfDi-32" value="Входной кран 1УА закрыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="600" y="130" width="205" height="20" as="geometry" />
+          <mxGeometry x="600" y="130" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vp8R3FniqfXXm2EuUfDi-34" value="15 с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
+        <mxCell id="vp8R3FniqfXXm2EuUfDi-34" value="60 с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="265" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vp8R3FniqfXXm2EuUfDi-39" value="Входной кран 1УА закрыт" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="30" y="400" width="150" height="20" as="geometry" />
+          <mxGeometry x="20" y="400" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WGOIWOtRlZful5z0XLVo-1" value="Примечание - при подаче команды выполняется блокировка соответствующей команды противоположного действия, например, для команды &quot;Кран 4 закрыть&quot; блокируется &quot;Кран 4 открыть&quot;&lt;br&gt;* - выполняется размыканием цепи управления противоположной команды&lt;br&gt;** - выполняется снятием питания с аналогового выхода &quot;Управление антипомпажным клапаном (Кран № 6р)&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="40" y="740" width="1080" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ncauQP9AvjcyV4FWilIb-7" value="10 c" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
+        <mxCell id="ncauQP9AvjcyV4FWilIb-7" value="180 c" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="470" y="140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ncauQP9AvjcyV4FWilIb-8" value="&amp;amp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" parent="1" vertex="1">
@@ -255,11 +255,9 @@
         </mxCell>
         <mxCell id="ztT179E0r6GBONuLtkep-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vp8R3FniqfXXm2EuUfDi-39" target="ztT179E0r6GBONuLtkep-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="410" as="sourcePoint" />
-            <mxPoint x="255" y="413.03" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="410" />
-            </Array>
+            <mxPoint x="260" y="409.87" as="sourcePoint" />
+            <mxPoint x="305" y="409.87" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ztT179E0r6GBONuLtkep-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="ztT179E0r6GBONuLtkep-5">
@@ -297,7 +295,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="azJjPpH03EOyZhzqckqP-4" value="15 с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="azJjPpH03EOyZhzqckqP-4" value="180 с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="450" y="362.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="azJjPpH03EOyZhzqckqP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -317,7 +315,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="azJjPpH03EOyZhzqckqP-7" value="Свечной кран 2УА открыть" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="600" y="352" width="205" height="20" as="geometry" />
+          <mxGeometry x="600" y="352" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="azJjPpH03EOyZhzqckqP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=1.006;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ztT179E0r6GBONuLtkep-10" target="azJjPpH03EOyZhzqckqP-7">
           <mxGeometry relative="1" as="geometry">
