@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T13:03:57.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="q1WGKfFJn6f-MVyg-tXE" version="24.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T13:07:47.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="VhhlrPA1jwgCWPRu6NJN" version="24.4.2" type="github" pages="2">
   <diagram id="ZtWWPMljTFp8yyawiEbH" name="ЭАО Причины">
     <mxGraphModel dx="1735" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KjCAZHo6sr9IO5SEz2zb" name="ЭАО последствия">
-    <mxGraphModel dx="1190" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
         </mxCell>
         <mxCell id="vp8R3FniqfXXm2EuUfDi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="220.19000000000005" as="sourcePoint" />
+            <mxPoint x="135" y="220" as="sourcePoint" />
             <mxPoint x="185" y="220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="165" y="220.19000000000005" />
@@ -161,11 +161,11 @@
         </mxCell>
         <mxCell id="vp8R3FniqfXXm2EuUfDi-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="145" y="120" as="sourcePoint" />
-            <mxPoint x="140" y="380" as="targetPoint" />
+            <mxPoint x="135" y="120" as="sourcePoint" />
+            <mxPoint x="135" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="145" y="240" />
-              <mxPoint x="145" y="240" />
+              <mxPoint x="135" y="240" />
+              <mxPoint x="135" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -173,7 +173,7 @@
           <mxGeometry x="545" y="130" width="205" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vp8R3FniqfXXm2EuUfDi-34" value="15 с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="400" y="490" width="40" height="40" as="geometry" />
+          <mxGeometry x="185" y="300" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vp8R3FniqfXXm2EuUfDi-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Tahoma;" parent="1" target="vp8R3FniqfXXm2EuUfDi-39" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -422,13 +422,23 @@
         <mxCell id="kb3w1TMYhDqOUEDyAWUW-1" value="Индикация ЭО на ПРУ" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="185" y="250" width="255" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kb3w1TMYhDqOUEDyAWUW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="kb3w1TMYhDqOUEDyAWUW-1" edge="1">
+        <mxCell id="kb3w1TMYhDqOUEDyAWUW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kb3w1TMYhDqOUEDyAWUW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="120" as="sourcePoint" />
-            <mxPoint x="190" y="430" as="targetPoint" />
+            <mxPoint x="105" y="120" as="sourcePoint" />
+            <mxPoint x="184" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="145" y="120" />
-              <mxPoint x="145" y="260" />
+              <mxPoint x="135" y="120" />
+              <mxPoint x="135" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ztT179E0r6GBONuLtkep-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="319.89" as="sourcePoint" />
+            <mxPoint x="185" y="319.89" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="320.08000000000004" />
+              <mxPoint x="165" y="320.08000000000004" />
             </Array>
           </mxGeometry>
         </mxCell>
