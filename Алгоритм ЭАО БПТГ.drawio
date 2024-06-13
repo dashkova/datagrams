@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T07:34:40.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="zgxJ-7s0jz2oHzUsTjoW" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T13:47:27.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="1wB1qJEGEViwIJbcdfHq" version="24.5.3" type="github">
   <diagram id="KjCAZHo6sr9IO5SEz2zb" name="ЭАО последствия">
-    <mxGraphModel dx="1430" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="snfo3hUEOQCX2EgYNw8K-1" value="&lt;h1 style=&quot;border-color: var(--border-color); text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Приложение 2 - Алгоритм ЭАО&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;ЛСНР.xxxxxxxxx ПБ&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=18;verticalAlign=top;fontFamily=Tahoma;" parent="1" vertex="1">
+        <mxCell id="snfo3hUEOQCX2EgYNw8K-1" value="&lt;h1 style=&quot;border-color: var(--border-color); text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Приложение 2 - Алгоритм ЭАО&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;ЛСНР.421457.002-042.02 ПБ&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=18;verticalAlign=top;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vp8R3FniqfXXm2EuUfDi-2" value="ЭАО БПТГ от АСУ ТП КЦ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
@@ -99,7 +99,7 @@
         <mxCell id="kb3w1TMYhDqOUEDyAWUW-1" value="Индикация ЭО на ПРУ" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="440" y="250" width="255" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kb3w1TMYhDqOUEDyAWUW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kb3w1TMYhDqOUEDyAWUW-1" edge="1" source="vp8R3FniqfXXm2EuUfDi-2">
+        <mxCell id="kb3w1TMYhDqOUEDyAWUW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontFamily=Tahoma;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vp8R3FniqfXXm2EuUfDi-2" target="kb3w1TMYhDqOUEDyAWUW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="305" y="120" as="sourcePoint" />
             <mxPoint x="384" y="260" as="targetPoint" />
@@ -219,49 +219,49 @@
         <mxCell id="v7oxfMcU6WycND9i8jci-3" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;KT3&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="336" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-1" value="t, с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-1" value="t, с" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="790" y="440" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-2" value="- таймер (задержка переднего фронта)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-2" value="- таймер (задержка переднего фронта)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="840" y="445" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-3" value="Условные обозначения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-3" value="Условные обозначения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="800" y="400" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-4" value="DO1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-4" value="DO1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="790" y="490" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-5" value="- дискретный выход модуля контроллера" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-5" value="- дискретный выход модуля контроллера" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="840" y="485" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-6" value="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-6" value="1" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="800" y="520" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="818" y="537.5" width="5" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-8" value="- логический элемент ИЛИ (окружностью обозначена инверсия выхода)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-8" value="- логический элемент ИЛИ (окружностью обозначена инверсия выхода)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="840" y="520" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-9" value="&amp;amp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-9" value="&amp;amp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="800" y="570" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-10" value="- логический элемент И" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-10" value="- логический элемент И" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="840" y="570" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-11" value="2оо3" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-11" value="2оо3" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="790" y="672.5" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-12" value="- система с мажоритарным голосованием 2оо3, сигнал на выходе появится тогда, когда сработают любые 2 входа" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-12" value="- система с мажоритарным голосованием 2оо3, сигнал на выходе появится тогда, когда сработают любые 2 входа" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="840" y="682.5" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-13" value="&amp;amp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-13" value="&amp;amp;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Tahoma;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="800" y="620" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-14" value="- логический элемент И с инверсией одного входа" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-14" value="- логический элемент И с инверсией одного входа" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="840" y="620" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBAVv4VIJdcXMcP-1VyD-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontFamily=Tahoma;" vertex="1" parent="1">
+        <mxCell id="CBAVv4VIJdcXMcP-1VyD-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="797" y="648" width="5" height="5" as="geometry" />
         </mxCell>
       </root>
