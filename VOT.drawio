@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T12:25:34.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="g0SAdjUNIyrl2ZP0b8Vg" version="24.5.4" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2024-07-16T12:26:44.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="QaQ9mFXcax6NtwK0TOiy" version="24.5.4" type="github" pages="37">
   <diagram name="УГО" id="lBeEptGMhe-WrmiIBoQS">
     <mxGraphModel dx="3549" dy="4011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6433,7 +6433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ГТУ2" id="h3eaypCfmy6i8CBZkt-W">
-    <mxGraphModel dx="3549" dy="4011" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3564" dy="3991" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="GqdLQjv1MhJMTsvSTzXH-0" />
         <mxCell id="GqdLQjv1MhJMTsvSTzXH-1" parent="GqdLQjv1MhJMTsvSTzXH-0" />
@@ -6784,7 +6784,7 @@
         <mxCell id="nnaVP23L5lY4XVVqE20K-8" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Calibri;strokeWidth=0.63;fillColor=#000000;" parent="GqdLQjv1MhJMTsvSTzXH-1" vertex="1">
           <mxGeometry x="-1758" y="-3189" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="nnaVP23L5lY4XVVqE20K-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.043;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;" parent="GqdLQjv1MhJMTsvSTzXH-1" source="nnaVP23L5lY4XVVqE20K-8" target="jwPVSCltyv9RF1B25q_1-1" edge="1">
+        <mxCell id="nnaVP23L5lY4XVVqE20K-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="GqdLQjv1MhJMTsvSTzXH-1" source="nnaVP23L5lY4XVVqE20K-8" target="jwPVSCltyv9RF1B25q_1-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1752" y="-3152" />
