@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T14:23:08.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="uRSTpcFE7Kkcw7QoXP7U" version="24.5.4" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2024-07-16T14:38:56.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="vMYUUuvg4crieIGTnNRp" version="24.5.4" type="github" pages="37">
   <diagram name="УГО" id="lBeEptGMhe-WrmiIBoQS">
     <mxGraphModel dx="3549" dy="4011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7910,7 +7910,7 @@
             <mxRectangle width="96" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFSwyCfh5EABv93-yvI4-13" value="&lt;font color=&quot;#0000ff&quot;&gt;[aipar.Ta_BS1.value &amp;gt; thr_17]&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#2f2f2f;strokeWidth=1;fontFamily=Calibri;fontSize=9;fontColor=#2f2f2f;align=left;spacingLeft=1;labelBorderColor=none;" parent="wFSwyCfh5EABv93-yvI4-11" vertex="1">
+        <mxCell id="wFSwyCfh5EABv93-yvI4-13" value="&lt;font color=&quot;#0000ff&quot;&gt;[aipar.Ta_BS1.value &amp;gt; 17.0]&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#2f2f2f;strokeWidth=1;fontFamily=Calibri;fontSize=9;fontColor=#2f2f2f;align=left;spacingLeft=1;labelBorderColor=none;" parent="wFSwyCfh5EABv93-yvI4-11" vertex="1">
           <mxGeometry x="96" width="160" height="21" as="geometry">
             <mxRectangle width="160" height="21" as="alternateBounds" />
           </mxGeometry>
@@ -7931,7 +7931,7 @@
             <mxRectangle width="96" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFSwyCfh5EABv93-yvI4-18" value="&lt;font color=&quot;#0000ff&quot;&gt;[aipar.Ta_BS2.value &amp;gt; thr_17]&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#2f2f2f;strokeWidth=1;fontFamily=Calibri;fontSize=9;fontColor=#2f2f2f;align=left;spacingLeft=1;labelBorderColor=none;" parent="wFSwyCfh5EABv93-yvI4-16" vertex="1">
+        <mxCell id="wFSwyCfh5EABv93-yvI4-18" value="&lt;font color=&quot;#0000ff&quot;&gt;[aipar.Ta_BS2.value &amp;gt; 17.0]&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#2f2f2f;strokeWidth=1;fontFamily=Calibri;fontSize=9;fontColor=#2f2f2f;align=left;spacingLeft=1;labelBorderColor=none;" parent="wFSwyCfh5EABv93-yvI4-16" vertex="1">
           <mxGeometry x="96" width="160" height="21" as="geometry">
             <mxRectangle width="160" height="21" as="alternateBounds" />
           </mxGeometry>
