@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T14:00:40.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="znva3LJOzCjoNmLnwIv6" version="24.5.4" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2024-07-16T14:23:08.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="uRSTpcFE7Kkcw7QoXP7U" version="24.5.4" type="github" pages="37">
   <diagram name="УГО" id="lBeEptGMhe-WrmiIBoQS">
     <mxGraphModel dx="3549" dy="4011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7826,7 +7826,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ГТУ5" id="A_tppjOSZW89_1u2f4ny">
-    <mxGraphModel dx="3768" dy="4138" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3389" dy="3894" grid="1" gridSize="4" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="UtUw5oKUW6ZecMEBbVxC-0" />
         <mxCell id="UtUw5oKUW6ZecMEBbVxC-1" parent="UtUw5oKUW6ZecMEBbVxC-0" />
@@ -7868,7 +7868,7 @@
             <mxRectangle width="96" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFSwyCfh5EABv93-yvI4-3" value="&lt;font color=&quot;#0000ff&quot;&gt;[aipar.Ta_BS1.value &amp;lt; thr_15]&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#2f2f2f;strokeWidth=1;fontFamily=Calibri;fontSize=9;fontColor=#2f2f2f;align=left;spacingLeft=1;labelBorderColor=none;" parent="wFSwyCfh5EABv93-yvI4-1" vertex="1">
+        <mxCell id="wFSwyCfh5EABv93-yvI4-3" value="&lt;font color=&quot;#0000ff&quot;&gt;[aipar.Ta_BS1.value &amp;lt; 15.0]&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#2f2f2f;strokeWidth=1;fontFamily=Calibri;fontSize=9;fontColor=#2f2f2f;align=left;spacingLeft=1;labelBorderColor=none;" parent="wFSwyCfh5EABv93-yvI4-1" vertex="1">
           <mxGeometry x="96" width="160" height="21" as="geometry">
             <mxRectangle width="160" height="21" as="alternateBounds" />
           </mxGeometry>
@@ -7889,7 +7889,7 @@
             <mxRectangle width="96" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFSwyCfh5EABv93-yvI4-8" value="&lt;font color=&quot;#0000ff&quot;&gt;[aipar.Ta_BS2.value &amp;lt; thr_15]&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#2f2f2f;strokeWidth=1;fontFamily=Calibri;fontSize=9;fontColor=#2f2f2f;align=left;spacingLeft=1;labelBorderColor=none;" parent="wFSwyCfh5EABv93-yvI4-6" vertex="1">
+        <mxCell id="wFSwyCfh5EABv93-yvI4-8" value="&lt;font color=&quot;#0000ff&quot;&gt;[aipar.Ta_BS2.value &amp;lt; 15.0]&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;rounded=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#2f2f2f;strokeWidth=1;fontFamily=Calibri;fontSize=9;fontColor=#2f2f2f;align=left;spacingLeft=1;labelBorderColor=none;" parent="wFSwyCfh5EABv93-yvI4-6" vertex="1">
           <mxGeometry x="96" width="160" height="21" as="geometry">
             <mxRectangle width="160" height="21" as="alternateBounds" />
           </mxGeometry>
